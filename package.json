@@ -3,9 +3,7 @@
   "description": "Tiny string compression module for Node.",
   "version": "3.1.8",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "https://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -16,12 +14,12 @@
     "test": "npm run test:tape",
     "test:tape": "node index.test.js"
   },
-  "homepage": "https://github.com/zacanger/shrink-string#readme",
+  "homepage": "https://github.com/zautumnz/shrink-string#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/shrink-string.git"
+    "url": "https://github.com/zautumnz/shrink-string.git"
   },
-  "bugs": "https://github.com/zacanger/shrink-string/issues",
+  "bugs": "https://github.com/zautumnz/shrink-string/issues",
   "keywords": [
     "base64",
     "compress",

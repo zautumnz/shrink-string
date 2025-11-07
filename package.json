@@ -28,11 +28,11 @@
     "string"
   ],
   "devDependencies": {
-    "@types/node": "20.6.4",
-    "sortpack": "2.3.4",
+    "@types/node": "24.10.0",
+    "sortpack": "3.0.0",
     "tape-async": "2.3.0",
     "ts-standard": "12.0.2",
-    "typescript": "5.2.2"
+    "typescript": "5.9.3"
   },
   "engines": {
     "node": ">=18.0.0"
